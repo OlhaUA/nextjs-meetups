@@ -11,13 +11,4 @@ module.exports = (phase) => {
       },
     };
   }
-
-  return {
-    env: {
-      mongodb_username: 'olhaAnhel',
-      mongodb_password: 'Hzu58k287QPpU3Fj',
-      mongodb_clustername: 'cluster0',
-      mongodb_database: 'meetups-prod',
-    },
-  };
 };
